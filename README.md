@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @warriorloyal
-- 👀 I’m interested in ...learning data analysis with R and data visualisation with Tableau
-- 🌱 I’m currently learning ..R language.
-- 💞️ I’m looking to collaborate on .any project related to R an Tableau..
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ..
+- 💞️ I’m looking to collaborate on .
 - 📫 How to reach me ...
 
 <!---
